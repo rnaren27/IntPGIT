@@ -1,0 +1,2 @@
+# IntPGIT
+intellipaat training classes
